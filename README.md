@@ -19,9 +19,14 @@
 <h2 align="center">🔥 My Status🔥</h2>
   <br /><br />
   <div align=center>
+  <a href="https://github.com/yuuki-fuji">
+  ▶  This is my personal GitHub account
+  </a>
+  <br /><br />
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuuki-fuji&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
   <br /><br />
+
   ![Yuuki's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuuki-fuji&show_icons=true&theme=vue-dark)
 
   </div>
